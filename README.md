@@ -1,2 +1,1 @@
-# .github
-Mjolnir Studio Profile repo
+# Mjolnir Studio
