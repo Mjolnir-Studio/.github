@@ -1,7 +1,20 @@
+[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=FF424D&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/MjolnirStudioDEV)
 # Mjolnir Studio
 Hello World Mjolnir Studio here :octocat:
 
-# Our Software
+<!-- [Mjolnir Website](https://mjolnir.yomisana.xyz) -->
+
+<!-- ## Project of Mjolnir Studio
+Mjolnir Launcher is Minecarft Launcher App(had Anti-Cheat feature)
+
+Mjolnir BSD is Stable-Diffusion-Webui better extra version. put some useful function and tool let it become easy use.
+## almost no longer dev project
+Mjolnir League is lol app. ( we not have keep update this 😢 )
+Mjolnir Velocity is the newer lol app. (we seldom to dev this cool thing may change to small tool then let this proj get more big or write some proj plan then write...)
+ -->
+
+
+## Our Software
 - Mjolnir Launcher: AntiCheat-Minecraft Launcher
 - Mjolnir Velocity(semi-deprecated): A modern software used for Riot Games
 
