@@ -1,4 +1,5 @@
-[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&message=Patreon&color=FF424D&logo=Patreon&logoColor=FFFFFF&label=)](https://www.patreon.com/MjolnirStudioDEV)
+[![ko-fi](https://img.shields.io/static/v1?style=for-the-badge&message=ko-fi&color=000000&logo=kofi&logoColor=FF424D&label=)]([https://www.patreon.com/MjolnirStudioDEV](https://ko-fi.com/yomisana))
+
 # Mjolnir Studio
 Hello World Mjolnir Studio here :octocat:
 
