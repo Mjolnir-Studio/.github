@@ -16,9 +16,11 @@ Mjolnir Velocity is the newer lol app. (we seldom to dev this cool thing may cha
 
 
 ## Our Software
-- Mjolnir Launcher: AntiCheat-Minecraft Launcher
-- Mjolnir Velocity(semi-deprecated): A modern software used for Riot Games
+- Mjolnir Launcher: Anti cheat mod Minecraft Launcher.
+- Mjolnir-Plugin: A mc server plugin used for control client mod plugin.
+- Mjolnir-BSD: Mjolnir Better Stable Diffusion gui app.
+- Mjolnir Velocity(pre-dev): A modern software used for Riot Games.
 
 Discord Server: https://discord.gg/RmB9vXukbq
 
-Our Website: https://mjolnir.yomisana.xyz/
+Our Website: https://www.mjolnir.tw/
